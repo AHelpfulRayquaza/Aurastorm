@@ -1,4 +1,4 @@
-<body><pre style="word-wrap: break-word; white-space: pre-wrap;">/*
+/*
 
 Ratings and how they work:
 
@@ -4164,4 +4164,4 @@ let BattleAbilities = {
 };
 
 exports.BattleAbilities = BattleAbilities;
-</pre></body>
+
