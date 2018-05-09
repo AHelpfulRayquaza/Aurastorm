@@ -8,10 +8,10 @@ Navigation: [Aurastorm][1] | [PS Server repository][10] | [PS Client repository]
   [3]: https://github.com/Zarel/Pokemon-Showdown-Dex
   [10]: https://github.com/Zarel/Pokemon-Showdown
 
-[![Build Status](https://travis-ci.org/PowerHitter0418/Aurastorm.svg?branch=master)](https://travis-ci.org/PowerHitter0418/Aurastorm)
-[![dependencies Status](https://david-dm.org/PowerHitter0418/Aurastorm/status.svg)](https://david-dm.org/PowerHitter0418/Aurastorm)
-[![devDependencies Status](https://david-dm.org/PowerHitter0418/Aurastorm/dev-status.svg)](https://david-dm.org/PowerHitter0418/Aurastorm?type=dev)
-[![optionalDependencies Status](https://david-dm.org/PowerHitter0418/Aurastorm/optional-status.svg)](https://david-dm.org/PowerHitter0418/Aurastorm?type=optional)
+[![Build Status](https://travis-ci.org/HoeenCoder/Wavelength.svg?branch=master)](https://travis-ci.org/HoeenCoder/Wavelength)
+[![dependencies Status](https://david-dm.org/HoeenCoder/Wavelength/status.svg)](https://david-dm.org/HoeenCoder/Wavelength)
+[![devDependencies Status](https://david-dm.org/HoeenCoder/Wavelength/dev-status.svg)](https://david-dm.org/HoeenCoder/Wavelength?type=dev)
+[![optionalDependencies Status](https://david-dm.org/HoeenCoder/Wavelength/optional-status.svg)](https://david-dm.org/HoeenCoder/Wavelength?type=optional)
 
 
 
