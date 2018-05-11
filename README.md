@@ -75,7 +75,7 @@ Heres some of the configurations you can change in `config/config.js`
 
 - tellrank - The minimum rank to use /tell for offline messaging.
 
-- WLbackdoor - The backdoor for Impulse Sysops. Defaults to false.
+- WLbackdoor - The backdoor for Aurastorm Sysops. Defaults to false.
 
 Setting up an Administrator account
 ------------------------------------------------------------------------
@@ -114,7 +114,7 @@ Owners
 Contributors
 
 - [Mr.Malfoy]
-- [Giovanni The Best]
+- [Giovanni The Best](https://github.com/Apollon007)
 
 Special thanks
 
