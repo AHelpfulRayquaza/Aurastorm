@@ -20,7 +20,7 @@ Introduction
 
 This is the source code for the Pokémon Showdown server [Aurastorm][4], a website for Pokémon battling. Pokémon Showdown simulates singles, doubles and triples battles in all the games out so far (Generations 1 through 7).
 
-This repository contains the files needed to set up your own Pokémon Showdown server. The Impulse server also comes with some custom additions not found on the main repo. This repo will still have all the features from the main server. Note that to set up a server, you'll also need a server computer.
+This repository contains the files needed to set up your own Pokémon Showdown server. The Aurastorm server also comes with some custom additions not found on the main repo. This repo will still have all the features from the main server. Note that to set up a server, you'll also need a server computer.
 
 You can use your own computer as a server, but for other people to connect to your computer, you'll need to expose a port (default is 8000 but you can choose a different one) to connect to, which sometimes requires [port forwarding][5] (note that this isn't possible on certain internet connections).
 
@@ -111,10 +111,11 @@ Owners
 
 - [A Flying Phantom](https://github.com/PowerHitter0418)
 - [A Helpful Rayquaza](https://github.com/ahelpfulrayquaza)
+
 Contributors
 
 - [Mr.Malfoy]
-- [Giovanni The Best]
+- [Giovanni The Best](https://github.com/Apollon007)
 
 Special thanks
 
