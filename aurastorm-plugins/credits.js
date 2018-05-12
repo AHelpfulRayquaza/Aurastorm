@@ -5,17 +5,15 @@ exports.commands = {
 		let popup = "|html|" + "<font size=5 color=#0066ff><u><b>" + Config.serverName + " Credits</b></u></font><br />" +
 			 "<br />" +
 			 "<u><b>Server Maintainers:</u></b><br />" +
-			 "- " + WL.nameColor('Prince Sky', true) + " (Owner, Sysadmin, Policy Admin, Server Host)<br />" +
-			 "- " + WL.nameColor('Anrin N', true) + " (Owner, Sysadmin, Technical Admin, Server Host)<br />" +
+			 "- " + WL.nameColor('A Flying Phantom', true) + " (Owner, Sysadmin,Technical Admin, Policy Admin, Server Host)<br />" +
+			 "- " + WL.nameColor('Giovanni The Best', true) + " (Co-Owner, Sysadmin, Technical Admin, Policy Admin, Server Host)<br />" +
+			 "- " + WL.nameColor('A Helpful Rayquaza', true) + " (Co-Owner, Sysadmin, Technical Admin, Policy Admin, Server Host)<br />" +
 			 "<br />" +
 			 "<u><b>Major Contributors:</b></u><br />" +
 			 "- " + WL.nameColor('shivay', true) + " (Technical Admin, Development)<br/>" +
-			 "- " + WL.nameColor('Sparky Heliolisk', true) + " (SSB Leader, Media)<br/>" +
 			 "<br />" +
 			 "<u><b>Contributors:</b></u><br />" +
-			 "- " + WL.nameColor('A Helpful Rayquaza', true) + " (Community Leader, Development, Aura Storm)<br />" +
-			 "- " + WL.nameColor('Xirizu', true) + " (Community Admin, Aura Storm)<br/>" +
-			 "- " + WL.nameColor('SnorlaxTheRain', true) + " (Community Admin)<br/>" +
+
 			 "<br />" +
 			 "<u><b>Base Repository:</b></u><br />" +
 			 "- " + WL.nameColor('HoeenHero', true) + " (Wavelength)<br />" +
